@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ChatsZone/app/src/main/res/drawable/circle_green.xml" value="0.26510416666666664" />
+        <entry key="..\:/ChatsZone/app/src/main/res/drawable/ic__facebook.xml" value="0.26510416666666664" />
+        <entry key="..\:/ChatsZone/app/src/main/res/drawable/ic_chat.xml" value="0.26510416666666664" />
+        <entry key="..\:/ChatsZone/app/src/main/res/drawable/ic_chats.xml" value="0.26510416666666664" />
+        <entry key="..\:/ChatsZone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14270833333333333" />
+        <entry key="..\:/ChatsZone/app/src/main/res/drawable/ic_left_arrow.xml" value="0.26510416666666664" />
+        <entry key="..\:/ChatsZone/app/src/main/res/drawable/ic_search.xml" value="0.26510416666666664" />
+        <entry key="..\:/ChatsZone/app/src/main/res/drawable/receive_drawable.xml" value="0.26510416666666664" />
+        <entry key="..\:/ChatsZone/app/src/main/res/drawable/sent_drawable.xml" value="0.26510416666666664" />
+        <entry key="..\:/ChatsZone/app/src/main/res/drawable/textbox_outline.xml" value="0.26510416666666664" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/activity_chat.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/activity_group_chat.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/activity_main.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/activity_otpactivity.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/activity_ph.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/activity_phone_login.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/activity_set_up_profile.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/delete_dialog.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/demo_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/demo_status.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/item_receive.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/item_receive_group.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/item_sent.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/item_sent_group.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/item_status.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/layout/row_conversation.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/menu/chat_menu.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/menu/menu.xml" value="0.24895833333333334" />
+        <entry key="..\:/ChatsZone/app/src/main/res/menu/topmenu.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
